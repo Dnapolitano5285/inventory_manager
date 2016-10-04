@@ -16,7 +16,7 @@ import android.widget.Toast;
 import com.mediocremidgardian.inventorymanager.data.ItemContract.ItemEntry;
 
 /**
- * Created by Valhalla on 9/27/16.
+ * Created by Valhalla on 9/27/16. BLORP
  */
 
 public class ItemCursorAdapter extends CursorAdapter {
