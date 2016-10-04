@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Inventory Manager</string>
+    <string name="record_a_sale">Record a Sale</string>
+    <string name="item_description">Item Name</string>
+    <string name="item_price">Item Price</string>
+    <string name="item_quantity">Item Quantity</string>
+    <string name="adjust_quantity">Adjust Quantity</string>
+    <string name="description">Name</string>
+    <string name="price">Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="add">Add</string>
+    <string name="subtract">Subtract</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="order_more">Order More</string>
+    <string name="inventory_title">Inventory Summary</string>
+    <string name="list_quantity">"Quantity: "</string>
+    <string name="reduce_error">Unable to lower quantity below 0</string>
+    <string name="zero_error">Cannot lower quantity below 0</string>
+    <string name="email_choose">Choose Email App</string>
+    <string name="delete_error">Error deleting item</string>
+    <string name="delete_success">Item deleted successfully</string>
+    <string name="update_success">Item updated successfully</string>
+    <string name="update_error">There was an error updating the item</string>
+    <string name="add_success">Item added successfully</string>
+    <string name="add_error">Unable to add item to database</string>
+    <string name="save_dialog">There are unsaved changes, are you sure you want to exit?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="cancel">Cancel</string>
+    <string name="dialog_delete">Delete</string>
+    <string name="delete_dialog_title">Are you sure you want to delete the item?</string>
+    <string name="create_title">Create Item</string>
+    <string name="edit_title">Edit Item</string>
+    <string name="lower">Lower</string>
+    <string name="item_picture">Item Picture</string>
+</resources>
